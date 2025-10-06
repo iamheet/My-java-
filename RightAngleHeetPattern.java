@@ -8,7 +8,7 @@ public class RightAngleHeetPattern {
             for (int j = 1; j <= i; j++) {
                 System.out.print(word.charAt(j - 1) + " ");
             }
-            System.out.println();  // Move to the next line after each row
+            System.out.println("Hi");  // Move to the next line after each row
         }
     }
 }
